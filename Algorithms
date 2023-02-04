@@ -1,0 +1,34 @@
+Algorithm for sum of two numbers-
+
+Input : Two numbers a and b
+Step 1: Start
+Step 2: Declare sum to 0  (This is optional step, during step5 we can add declaration and assign directly as well)
+Step 3: Read number a
+Step 4: Read number b
+Step 5: Add a and b and assign result to variable sum
+Step 6: Print sum
+Step 7: Stop
+Output: Sum of a and b
+
+Algorithm for area of circle-
+
+Input : radius of a circle
+Step 1: Start
+Step 2: Read radius 
+Step 3: Calculate area, area = 3.14*radius*radius
+Step 4: Print area
+Step 5: Stop
+Output: area
+
+Algorithm for sum of all even number-
+
+1.)Start
+2.)Declare a variable of type int i=0,num=n and sum =0
+3.)Iteration
+for i =0 and i<n
+{
+sum = sum + i
+increment i = i + 2
+}
+4.)Print Sum
+5.)Stop
